@@ -2,7 +2,7 @@
 
 Implementação do clássico jogo da forca em Java, com interface gráfica em Swing/AWT, banco de palavras em português e desenho progressivo do "boneco" conforme os erros. Projeto da disciplina de Programação Orientada a Objetos (UFOP).
 
-> ⚠️ Trabalho desenvolvido em grupo, como parte da disciplina.
+> Trabalho desenvolvido em grupo de 3 pessoas, como parte da disciplina.
 
 ## Funcionalidades
 
