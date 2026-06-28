@@ -1,0 +1,12 @@
+# Build artifacts
+*.class
+bin/
+build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
